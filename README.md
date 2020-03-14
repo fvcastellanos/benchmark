@@ -32,7 +32,7 @@ Status: 200
 ### Response
 
 `
-Status: 204
+Status: 201
 {
     "link": "/resources/{id}"
 }`
